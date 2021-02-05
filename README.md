@@ -131,3 +131,4 @@ NOTE that it is important to add -a option to create an annotated tag (otherwise
 - The .out folder should not be versioned, but .iml file and .idea should. In consequence, it is necessary to check .gitignore files (there are one within java-labs/ and another withing java-labs/.idea) in order to version .iml file and the .idea folder (check that workspace.xml is included).
 
 
+Prueba desde cuenta de Manuel.
